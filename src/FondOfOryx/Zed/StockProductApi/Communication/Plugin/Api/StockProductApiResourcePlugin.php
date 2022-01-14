@@ -14,7 +14,6 @@ use Spryker\Zed\Kernel\Communication\AbstractPlugin;
 
 /**
  * @method \FondOfOryx\Zed\StockProductApi\Business\StockProductApiFacadeInterface getFacade()
- * @method \FondOfOryx\Zed\StockProductApi\Business\StockProductApiBusinessFactory getFactory()
  * @method \FondOfOryx\Zed\StockProductApi\StockProductApiConfig getConfig()
  * @method \FondOfOryx\Zed\StockProductApi\Persistence\StockProductApiQueryContainerInterface getQueryContainer()
  */
